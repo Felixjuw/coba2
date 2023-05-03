@@ -2,8 +2,8 @@
 int main()
 {
     printf("Hallo semuanya\n");
-    int x, y;
-    x = 5;
+    int a, y;
+    a = 5;
     y = 2;
-    printf("%d", x + y);
+    printf("%d", a + y);
 }
