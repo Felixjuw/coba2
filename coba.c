@@ -3,7 +3,7 @@ int main()
 {
     printf("Hallo semuanya\n");
     int x, y;
-    x = 5;
+    x = 1;
     y = 2;
     printf("%d", x + y);
 }
